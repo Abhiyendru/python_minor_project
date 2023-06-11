@@ -6,7 +6,9 @@ Software Requirement:
 2. Python3 interpreter
 3. Mysql python connector
 
-At First the CCMS table.py file will be executed for one time only which will create the required tables and databases in the 
-my sql server.
+At First the CCMS table.py file will be executed for one time only which will create the required tables and databases in the my sql server.
+
+Change the user name and password in both of the files as per your user and password in mysql server.
+
 After that you can use the Main project file which contains all the operations it can do.
 I have added a little synopsis or the flowchart of the program as well. 
